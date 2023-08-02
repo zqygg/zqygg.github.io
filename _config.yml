@@ -1,11 +1,10 @@
 # Site settings
 title: zqy
-baseurl: 
 url: "https://zqygg.github.io"
 
 # Author
 author:
-  name: zqy
+  name: 周庆奕
   desc: Hello nice to meet you
   email: zqygg@mail.ustc.deu.cn
   selfie: 
