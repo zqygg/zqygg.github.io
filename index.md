@@ -18,7 +18,7 @@ B.S.,USTC（2022~）
 <br/>
 
 # 一些可能有用的网站
-<a href="http://math.ustc.edu.cn/main.htm/" target="_blank">USTC数学科学学院</a>
+<a href="http://math.ustc.edu.cn/mainm.htm" target="_blank">USTC数学科学学院</a>
 <br/>
 <a href="https://www.ustc.edu.cn/" target="_blank">USTC</a>
 <br/>
