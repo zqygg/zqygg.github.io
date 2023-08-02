@@ -5,11 +5,11 @@ url: "https://kssim.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
-author:
-  name: Qingyi Zhou
+ author:
+  name: KyeongSeob Sim
   desc: Hello nice to meet you
-  email: zqygg@mail.ustc.edu.cn
-  selfie: 
+  email: ksub0912@gmail.com
+  selfie: assets/img/profile.jpg
 
 # social
 social:
