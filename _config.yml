@@ -1,18 +1,18 @@
 # Site settings
-title: 周庆奕的个人主页
+title: zqygg
 baseurl: 
 url: "https://zqygg.github.io/"
 google_analytics: 
 
 # Author
  author:
-  name: 周庆奕
+  name: zqy
   email: zqygg@mail.ustc.edu.cn
   selfie: 
 
 # social
 social:
-  email: true
+  email: zqygg@mail.ustc.edu.cn
   behance:
   bitbucket:
   dribbble:
