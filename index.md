@@ -18,10 +18,10 @@ B.S.,USTC（2022~）
 <br/>
 
 # 一些可能有用的网站
-https://math.ustc.edu.cn/main.htm
+USTC数学科学学院 https://math.ustc.edu.cn/main.htm
 <br/>
-https://www.ustc.edu.cn/
+USTC https://www.ustc.edu.cn/
 <br/>
-https://www.zhangjy9610.me/USTCdata.html
+王作勤老师主页 https://www.zhangjy9610.me/USTCdata.html
 <br/>
-http://staff.ustc.edu.cn/~wangzuoq/
+USTC学习资料 http://staff.ustc.edu.cn/~wangzuoq/
