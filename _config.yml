@@ -1,15 +1,15 @@
 # Site settings
 title: zqygg
-baseurl: "/ap"
-url: "https://kssim.github.io"
-google_analytics: # Tracking ID, e.g. "UA-000000-01"
+baseurl: 
+url: "https://zqygg.github.io/"
+google_analytics: 
 
 # Author
  author:
-  name: KyeongSeob Sim
-  desc: Hello nice to meet you
-  email: ksub0912@gmail.com
-  selfie: assets/img/profile.jpg
+  name: 周庆奕
+  desc: 
+  email: zqygg@mail.ustc.edu.cn
+  selfie: 
 
 # social
 social:
