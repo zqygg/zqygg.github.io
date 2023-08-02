@@ -14,3 +14,11 @@ B.S.,USTC（2022~）
 
 # 兴趣
 数学，二次元，轻小说
+
+<br/>
+
+# 一些可能有用的网站
+https://math.ustc.edu.cn/main.htm
+https://www.ustc.edu.cn/
+https://www.zhangjy9610.me/USTCdata.html
+http://staff.ustc.edu.cn/~wangzuoq/
