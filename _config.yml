@@ -6,13 +6,14 @@ google_analytics:
 
 # Author
  author:
-  name: zqy
+  name: 周庆奕
+  desc: 
   email: zqygg@mail.ustc.edu.cn
   selfie: 
 
 # social
 social:
-  email: zqygg@mail.ustc.edu.cn
+  email: true
   behance:
   bitbucket:
   dribbble:
