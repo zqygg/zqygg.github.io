@@ -17,6 +17,11 @@ B.S.,USTC（2022~）
 
 <br/>
 
+# 资料
+
+
+<br/>
+
 # 一些可能有用的网站
 <a href="https://www.luogu.com.cn/blog/zqygg/" target="_blank">个人博客</a>
 <br/>
