@@ -9,6 +9,17 @@ author:
   email: zqygg@mail.ustc.edu.cn
   selfie: assets/img/profile.jpg
 
+a {
+color: red;
+}
+
+a:link {
+color: blue;
+}
+a:hover {
+color: red;
+}
+
 # social
 social:
   email: true
