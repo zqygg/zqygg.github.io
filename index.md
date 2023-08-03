@@ -18,17 +18,37 @@ B.S.,USTC（2022~）
 <br/>
 
 # 资料
+<a href="books\Algebra Chapter 0 (2nd printing).pdf">Algebra Chapter 0</a>
+
+<br/>
+
+<a href="books\Armstrong Topology.pdf">Armstrong Topology</a>
+
+<br/>
+
+<a href="books\comtemporary abstract algebra.pdf">comtemporary abstract algebra</a>
+
+<br/>
+
 
 
 <br/>
 
 # 一些可能有用的网站
 <a href="https://www.luogu.com.cn/blog/zqygg/" target="_blank">个人博客</a>
+
 <br/>
+
 <a href="http://math.ustc.edu.cn/mainm.htm" target="_blank">USTC数学科学学院</a>
+
 <br/>
+
 <a href="https://www.ustc.edu.cn/" target="_blank">USTC</a>
+
 <br/>
+
 <a href="https://www.zhangjy9610.me/USTCdata.html" target="_blank">USTC学习资料</a>
+
 <br/>
+
 <a href="http://staff.ustc.edu.cn/~wangzuoq/" target="_blank">王作勤老师主页</a>
