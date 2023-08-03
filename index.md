@@ -2,14 +2,6 @@
 layout: about 
 ---
 
-<!DOCTYPE html>
-<html><head><meta charset="UTF-8">
-</head>
-<body>
-<a href="#" style="color: blue;"></a>
-</body>
-</html>
-
 # 自我介绍
 我是一名数学系的学生，目前在中国科学技术大学就读本科，未来科研方向应该与数论有关。
 
