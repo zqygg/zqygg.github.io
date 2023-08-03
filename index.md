@@ -18,16 +18,15 @@ B.S.,USTC（2022~）
 <br/>
 
 # 资料
-<a href="books\Algebra Chapter 0 (2nd printing).pdf">Algebra Chapter 0</p></a> 
-
-<p style="color: blue;">Hello World!</p>
-<br/>
-
-<a href="books\Armstrong Topology.pdf">Armstrong Topology</a>
+<a href="books\Algebra Chapter 0 (2nd printing).pdf"><p style="color: blue;">Algebra Chapter 0</p></p></a> 
 
 <br/>
 
-<a href="books\comtemporary abstract algebra.pdf">Comtemporary abstract algebra</a>
+<a href="books\Armstrong Topology.pdf"><p style="color: blue;">Armstrong Topology</p></a>
+
+<br/>
+
+<a href="books\comtemporary abstract algebra.pdf"><p style="color: blue;">Comtemporary abstract algebra</a>
 
 <br/>
 
