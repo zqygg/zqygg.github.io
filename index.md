@@ -8,7 +8,9 @@ layout: about
 <br/>
 
 # 经历
-B.S., USTC（2022~）
+B.S. , USTC（2022~）
+
+Summer school of algebra and number theory , 2024
 
 TA of Analysis(A1)，2024 fall 
 
