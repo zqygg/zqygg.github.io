@@ -8,8 +8,8 @@ layout: about
 <br/>
 
 # 经历
-<a B.S.,USTC（2022~）</a> 
-<a TA Analysis(A1)，2024 fall </a> 
+<a B.S., USTC（2022~）</a> 
+<a TA of Analysis(A1)，2024 fall </a> 
 
 <br/>
 
