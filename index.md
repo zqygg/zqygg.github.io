@@ -2,13 +2,13 @@
 layout: about 
 ---
 
-# 自我介绍
-我是一名数学系的学生，目前在中国科学技术大学就读本科，兴趣是算术几何、表示论。
+# Personal information
+I am a grade 3 undergraduade at USTC，interested in arithmetic geometry and number theory.
 
 <br/>
 
-# 经历
-B.S. , USTC（2022~）
+# Exoerience
+B.S. USTC（2022~）
 
 Summer school of algebra and number theory , 2024
 
@@ -16,11 +16,11 @@ TA of Analysis(A1)，2024 fall
 
 <br/>
 
-# 资料
+# Materials
 
 
 
-# 一些可能有用的网站
+# Some useful links
 <a href="https://www.luogu.com.cn/blog/zqygg/" target="_blank" style="color: blue;">个人博客</a>
 
 <a href="http://math.ustc.edu.cn/mainm.htm" target="_blank" style="color: blue;">USTC数学科学学院</a>
