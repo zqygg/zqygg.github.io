@@ -8,18 +8,12 @@ layout: about
 <br/>
 
 # 经历
-B.S.,USTC（2022~）
-TA Analysis(A1)，2024 fall
-<br/>
+<a B.S.,USTC（2022~）</a> 
+<a TA Analysis(A1)，2024 fall </a> 
 
 <br/>
 
 # 资料
-<a href="books\Algebra Chapter 0 (2nd printing).pdf" style="color: blue;">Algebra Chapter 0</a> 
-
-<a href="books\Armstrong Topology.pdf" style="color: blue;">Armstrong Topology</a>
-
-<a href="books\comtemporary abstract algebra.pdf" style="color: blue;">Comtemporary abstract algebra</a>
 
 
 
