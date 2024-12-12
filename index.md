@@ -3,7 +3,7 @@ layout: about
 ---
 
 # Personal information
-I am a grade 3 undergraduade at USTC，interested in arithmetic geometry and number theory.
+I am currently an undergraduade student at USTC，interested in arithmetic geometry and number theory.
 
 <br/>
 
