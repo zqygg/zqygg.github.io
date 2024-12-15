@@ -7,7 +7,7 @@ I am currently an undergraduade student at USTC, interested in arithmetic geomet
 
 <br/>
 
-# Exoerience
+# Experience
 B.S. USTC（2022~）
 
 Summer school of algebra and number theory , 2024
