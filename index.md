@@ -21,7 +21,6 @@ TA of Analysis(A1)，2024 fall
 
 
 # Some useful links
-<a href="https://www.luogu.com.cn/blog/zqygg/" target="_blank" style="color: blue;">个人博客</a>
 
 <a href="http://math.ustc.edu.cn/mainm.htm" target="_blank" style="color: blue;">USTC数学科学学院</a>
 
