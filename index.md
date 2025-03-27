@@ -5,7 +5,7 @@ layout: about
 # Personal information
 I am currently an undergraduade student at USTC, interested in arithmetic geometry and representation theory.
 
-Currently I am going to take summer research on derived algebraic geometry in HKUST.
+I am going to take summer research on derived algebraic geometry in HKUST.
 
 <br/>
 
