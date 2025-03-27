@@ -5,6 +5,8 @@ layout: about
 # Personal information
 I am currently an undergraduade student at USTC, interested in arithmetic geometry and representation theory.
 
+Currently I am going to take summer research on derived algebraic geometry in HKUST.
+
 <br/>
 
 # Experience
@@ -13,6 +15,8 @@ B.S. USTC（2022~）
 Summer school of algebra and number theory , 2024
 
 TA of Analysis(A1)，2024 fall 
+
+TA of Complex Analysis，2025 spring
 
 <br/>
 
