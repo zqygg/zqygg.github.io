@@ -3,7 +3,7 @@ layout: about
 ---
 
 # Personal information
-I am currently an grade 1 master student at ALGANT (Essen-Bordeaux), interested in arithmetic geometry, p-adic Hodge Theory and Langlands Program specifically. 
+I am currently a grade 1 master student at ALGANT (Essen-Bordeaux), interested in arithmetic geometry, p-adic Hodge Theory and Langlands Program specifically. 
 <br/>
 
 # Experience
