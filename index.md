@@ -24,7 +24,8 @@ Local Langlands Correspondence Seminar, 2026 winter
 
 # Materials
 
-
+- [P-adic Hodge Theory Seminar]({{ '/books/Seminar_p_adic_Hodge_theory-13.pdf' | relative_url }})
+- [Local Langlands Seminar ]({{ '/books/local%20Langlands%20seminar%20program.pdf' | relative_url }})
 
 # Some useful links
 
