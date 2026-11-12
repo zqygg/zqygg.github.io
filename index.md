@@ -24,9 +24,19 @@ Local Langlands Correspondence Seminar, 2026 winter
 
 # Materials
 
-- [P-adic Hodge Theory Seminar]({{ '/books/Seminar_p_adic_Hodge_theory-13.pdf' | relative_url }})
-- [Local Langlands Seminar ]({{ '/books/local%20Langlands%20seminar%20program.pdf' | relative_url }})
+<p>
+  <a href="{{ '/books/Seminar_p_adic_Hodge_theory-13.pdf' | relative_url }}" 
+     target="_blank" style="color: blue;">
+    P-adic Hodge Theory Seminar
+  </a>
+</p>
 
+<p>
+  <a href="{{ '/books/local%20Langlands%20seminar%20program.pdf' | relative_url }}" 
+     target="_blank" style="color: blue;">
+    Local Langlands Seminar
+  </a>
+</p>
 # Some useful links
 
 
